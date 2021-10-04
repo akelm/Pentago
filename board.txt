@@ -1,0 +1,17 @@
+  -----~~~~~===== PENTAGO =====~~~~~-----
+
+ Gra:                    O ~> 
+                         X ~> 
+ +------------------+                        
+ | .  .  .  .  .  . |            Nowa gra 
+ | .  .  .  .  .  . |          Zapisz gre
+ | .  .  .  .  .  . |         Wczytaj gre  
+ | .  .  .  .  .  . |         Zakoncz gre
+ | .  .  .  .  .  . |     Zamknij program
+ | .  .  .  .  .  . |      Zatwierdz ruch
+ +------------------+         
+                                              
+    ,~>        <~,     
+   {  +        -  }    
+    `~          ~'     
+	

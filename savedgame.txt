@@ -1,0 +1,13 @@
+playerO
+C
+komputer_X
+K
+C
+O
+rotacja
+......
+......
+O.....
+....O.
+.....X
+......
